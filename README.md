@@ -16,13 +16,11 @@ Change the arg"Test" as "Ture".
 Google Drive: https://drive.google.com/file/d/1VDVIVnrXFSLDDuMmS9gf5rfmOKNu4wxb/view?usp=sharing
 
 # Reference
-@ARTICLE{10713288,
-  author={Liu, Jinyang and Li, Shutao and Tan, Lishan and Dian, Renwei},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={Denoiser Learning for Infrared and Visible Image Fusion}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-13},
-  keywords={Image fusion;Generators;Semantics;Loss measurement;Feature extraction;Noise reduction;Generative adversarial networks;Training;Learning systems;Data mining;Deep learning;denoiser;infrared image (IR) and visible image (VI) fusion},
+@ARTICLE{10713288,  
+  author={Liu, Jinyang and Li, Shutao and Tan, Lishan and Dian, Renwei},  
+  journal={IEEE Transactions on Neural Networks and Learning Systems},   
+  title={Denoiser Learning for Infrared and Visible Image Fusion},   
+  year={2024},  
+  pages={1-13},  
+  keywords={Image fusion;Generators;Semantics;Loss measurement;Feature extraction;Noise reduction;Generative adversarial networks;Training;Learning systems;Data mining;Deep learning;denoiser;infrared image (IR) and visible image (VI) fusion},  
   doi={10.1109/TNNLS.2024.3454811}}
