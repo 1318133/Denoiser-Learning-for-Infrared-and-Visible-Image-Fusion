@@ -22,5 +22,4 @@ Google Drive: https://drive.google.com/file/d/1VDVIVnrXFSLDDuMmS9gf5rfmOKNu4wxb/
   title={Denoiser Learning for Infrared and Visible Image Fusion},   
   year={2024},  
   pages={1-13},  
-  keywords={Image fusion;Generators;Semantics;Loss measurement;Feature extraction;Noise reduction;Generative adversarial networks;Training;Learning systems;Data mining;Deep learning;denoiser;infrared image (IR) and visible image (VI) fusion},  
   doi={10.1109/TNNLS.2024.3454811}}
