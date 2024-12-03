@@ -12,9 +12,6 @@ Change the arg"Test" as "False".
 # Test
 Change the arg"Test" as "Ture". 
 
-# Weights DownLoad 
-Google Drive: https://drive.google.com/file/d/1VDVIVnrXFSLDDuMmS9gf5rfmOKNu4wxb/view?usp=sharing
-
 # Reference
 @ARTICLE{10713288,  
   author={Liu, Jinyang and Li, Shutao and Tan, Lishan and Dian, Renwei},  
